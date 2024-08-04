@@ -96,10 +96,12 @@ section {
 
 /* Style the image */
 .example-image {
-    width: 100%; /* or set a specific width like 300px */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: var(--border-radius); /* Optional: adds rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds shadow */
+    width: 300px; /
+    height: auto; /
+    border-radius: var(--border-radius); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
 }
 
 /* Form styles */
