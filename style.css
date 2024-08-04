@@ -81,14 +81,14 @@ section {
     margin-bottom: var(--spacing-lg);
 }
 
-/* Card styles for project */
+/* Card styles for experience */
 .experience-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit), minmax(300px, 1fr));
     gap: var(--spacing-md);
 }
 
-.experience-card{
+.experience-card {
     background-color: var(--card-bg);
     border-radius: var(--border-radius);
     padding: var(--spacing-md);
