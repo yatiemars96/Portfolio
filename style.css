@@ -96,11 +96,8 @@ section {
 
 /* Style the image */
 .example-image {
-    width: 150px;      /* Adjust width to make it larger */
-    height: 150px;     /* Set height to the same value to keep it square */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
-    border-radius: var(--border-radius); 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
+    width: 150px;     
+    height: auto; 
 }
 
 
