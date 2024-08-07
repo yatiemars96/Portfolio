@@ -96,7 +96,7 @@ section {
 
 /* Style the image */
 .medium-image {
-    width: 400px; /* Adjust this value as needed */
+    width: 150px; /* Adjust this value as needed */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
