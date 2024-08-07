@@ -95,9 +95,11 @@ section {
 }
 
 /* Style the image */
-.example-image {
-    width: 150px;     
-    height: auto; 
+.medium-image {
+    width: 400px; /* Adjust this value as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
 }
 
 
