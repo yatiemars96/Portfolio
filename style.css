@@ -95,14 +95,11 @@ section {
 }
 
 /* Style the image */
-small-image {
-    width: 150px; /* Adjust as needed */
+.small-image {
+    width: 200px !important; /* Forcing the size */
     height: auto;
     display: block;
-    margin: 0 auto; /* Center the image */
-}
-
-
+    margin: 0 auto;
 }
 
 /* Form styles */
