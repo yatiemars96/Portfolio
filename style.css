@@ -96,7 +96,7 @@ section {
 
 /* Style the image */
 small-image {
-    width: 50px; /* Adjust as needed */
+    width: 150px; /* Adjust as needed */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -161,4 +161,10 @@ footer {
 	nav ul li {
 		margin: 0.5rem 0;
 	}
+
+	@media (max-width: 768px) {
+    .small-image {
+        width: 150px; /* Smaller size for smaller screens */
+    }
+}
 }
